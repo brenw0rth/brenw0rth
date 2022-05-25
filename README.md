@@ -8,7 +8,7 @@
 </h3>
   
 <p>
-  Netcat for Python.
+  arbitrary TCP and UDP connections and listens (Netcat for Python).
 </p>
 
 <h3>
