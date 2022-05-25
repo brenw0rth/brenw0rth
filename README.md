@@ -8,8 +8,10 @@
 </h3>
   
 <p>
-  Netcat for Python
+  Netcat for Python.
 </p>
+
+---
 
 <h3>
   <a href="https://github.com/brenw0rth/socketrat">
