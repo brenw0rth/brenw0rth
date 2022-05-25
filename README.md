@@ -21,3 +21,6 @@
 <p>
   A Python-based remote administration tool.
 </p>
+
+> **Note**
+> This project is still under construction.
