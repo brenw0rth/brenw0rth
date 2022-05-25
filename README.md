@@ -1,4 +1,4 @@
-<h1>Projects</h1>
+<h3>Projects</h3>
 
 <p>
   <img src="https://raw.githubusercontent.com/brenw0rth/pync/main/identicon.png" width=35>
