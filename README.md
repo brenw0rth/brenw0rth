@@ -2,12 +2,16 @@
 
 <ul>
   <li>
-    <img src="https://raw.githubusercontent.com/brenw0rth/pync/main/identicon.png" width=30>
-    <a href="https://github.com/brenw0rth/pync">pync</a>
+    <a href="https://github.com/brenw0rth/pync">
+      <img src="https://raw.githubusercontent.com/brenw0rth/pync/main/identicon.png" width=30>
+      pync
+    </a>
   </li>
   
   <li>
-    <img src="https://raw.githubusercontent.com/brenw0rth/socketrat/main/identicon.png" width=30>
-    <a href="https://github.com/brenw0rth/pync">socketrat</a>
+    <a href="https://github.com/brenw0rth/socketrat">
+      <img src="https://raw.githubusercontent.com/brenw0rth/socketrat/main/identicon.png" width=30>
+      socketrat
+    </a>
   </li>
 </ul>
