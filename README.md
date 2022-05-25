@@ -11,8 +11,6 @@
   Netcat for Python.
 </p>
 
----
-
 <h3>
   <a href="https://github.com/brenw0rth/socketrat">
     <img src="https://raw.githubusercontent.com/brenw0rth/socketrat/main/identicon.png" width=30>
