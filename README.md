@@ -22,5 +22,5 @@
   A Python-based remote administration tool.
 </p>
 
-> **Note**
+> **Note**:
 > This project is still under construction.
