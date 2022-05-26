@@ -19,7 +19,7 @@
 </h3>
 
 <p>
-  A Python-based remote administration tool.
+  A simple remote administration tool made with Python.
 </p>
 
 > **Note**:
