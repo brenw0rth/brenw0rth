@@ -7,13 +7,13 @@
   </a>
 </h3>
 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![GitHub stars](https://badgen.net/github/stars/brenw0rth/pync)](https://gitHub.com/brenw0rth/pync/stargazers/)
-[![GitHub forks](https://badgen.net/github/forks/brenw0rth/pync)](https://gitHub.com/brenw0rth/pync/network/members)
-
 <p>
   arbitrary TCP and UDP connections and listens (Netcat for Python).
 </p>
+
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![GitHub stars](https://badgen.net/github/stars/brenw0rth/pync)](https://gitHub.com/brenw0rth/pync/stargazers/)
+[![GitHub forks](https://badgen.net/github/forks/brenw0rth/pync)](https://gitHub.com/brenw0rth/pync/network/members)
 
 <h2></h2>
 
@@ -24,13 +24,13 @@
   </a>
 </h3>
 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![GitHub stars](https://badgen.net/github/stars/brenw0rth/socketrat)](https://gitHub.com/brenw0rth/socketrat/stargazers/)
-[![GitHub forks](https://badgen.net/github/forks/brenw0rth/socketrat)](https://gitHub.com/brenw0rth/socketrat/network/members)
-
 <p>
   A simple remote administration tool made with Python.
 </p>
 
 > **Note**:
 > This project is still under construction.
+
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![GitHub stars](https://badgen.net/github/stars/brenw0rth/socketrat)](https://gitHub.com/brenw0rth/socketrat/stargazers/)
+[![GitHub forks](https://badgen.net/github/forks/brenw0rth/socketrat)](https://gitHub.com/brenw0rth/socketrat/network/members)
