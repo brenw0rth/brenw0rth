@@ -6,6 +6,9 @@
     pync
   </a>
 </h3>
+
+[![GitHub stars](https://badgen.net/github/stars/brenw0rth/pync)](https://gitHub.com/brenw0rth/pync/stargazers/)
+[![GitHub forks](https://badgen.net/github/forks/brenw0rth/pync)](https://gitHub.com/brenw0rth/pync/network)
   
 <p>
   arbitrary TCP and UDP connections and listens (Netcat for Python).
@@ -17,6 +20,9 @@
     socketrat
   </a>
 </h3>
+
+[![GitHub stars](https://badgen.net/github/stars/brenw0rth/socketrat)](https://gitHub.com/brenw0rth/socketrat/stargazers/)
+[![GitHub forks](https://badgen.net/github/forks/brenw0rth/socketrat)](https://gitHub.com/brenw0rth/socketrat/network)
 
 <p>
   A simple remote administration tool made with Python.
