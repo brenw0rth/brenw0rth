@@ -18,6 +18,24 @@
 <h2></h2>
 
 <h3>
+  <a href="https://github.com/brenw0rth/rcmd">
+    <img src="https://raw.githubusercontent.com/brenw0rth/rcmd/main/identicon.png" width=30>
+    rcmd
+  </a>
+</h3>
+
+<p>
+  remote cmd shell for windows.
+</p>
+
+
+[![made-with-c](https://img.shields.io/badge/Made%20with-C-1f425f.svg)](https://www.rust-lang.org/)
+[![GitHub stars](https://badgen.net/github/stars/brenw0rth/rcmd)](https://gitHub.com/brenw0rth/rcmd/stargazers/)
+[![GitHub forks](https://badgen.net/github/forks/brenw0rth/rcmd)](https://gitHub.com/brenw0rth/rcmd/network/members)
+
+<h2></h2>
+
+<h3>
   <a href="https://github.com/brenw0rth/socketrat">
     <img src="https://raw.githubusercontent.com/brenw0rth/socketrat/main/identicon.png" width=30>
     socketrat
