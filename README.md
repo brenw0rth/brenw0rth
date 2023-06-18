@@ -29,7 +29,7 @@
 </p>
 
 
-[![made-with-c](https://img.shields.io/badge/Made%20with-C-1f425f.svg)](https://www.rust-lang.org/)
+[![made-with-c](https://img.shields.io/badge/Made%20with-C-1f425f.svg)](https://www.cprogramming.com/)
 [![GitHub stars](https://badgen.net/github/stars/brenw0rth/rcmd)](https://gitHub.com/brenw0rth/rcmd/stargazers/)
 [![GitHub forks](https://badgen.net/github/forks/brenw0rth/rcmd)](https://gitHub.com/brenw0rth/rcmd/network/members)
 
