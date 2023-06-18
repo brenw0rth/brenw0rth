@@ -25,7 +25,7 @@
 </h3>
 
 <p>
-  remote cmd shell for windows.
+  remote cmd shell for Windows.
 </p>
 
 
