@@ -18,9 +18,9 @@
 <h2></h2>
 
 <h3>
-  <a href="https://github.com/brenw0rth/rcmd">
-    <img src="https://raw.githubusercontent.com/brenw0rth/rcmd/main/identicon.png" width=30>
-    rcmd
+  <a href="https://github.com/brenw0rth/ncmd">
+    <img src="https://raw.githubusercontent.com/brenw0rth/ncmd/main/identicon.png" width=30>
+    ncmd
   </a>
 </h3>
 
@@ -30,8 +30,8 @@
 
 
 [![made-with-c](https://img.shields.io/badge/Made%20with-C-1f425f.svg)](https://www.cprogramming.com/)
-[![GitHub stars](https://badgen.net/github/stars/brenw0rth/rcmd)](https://gitHub.com/brenw0rth/rcmd/stargazers/)
-[![GitHub forks](https://badgen.net/github/forks/brenw0rth/rcmd)](https://gitHub.com/brenw0rth/rcmd/network/members)
+[![GitHub stars](https://badgen.net/github/stars/brenw0rth/ncmd)](https://gitHub.com/brenw0rth/ncmd/stargazers/)
+[![GitHub forks](https://badgen.net/github/forks/brenw0rth/ncmd)](https://gitHub.com/brenw0rth/ncmd/network/members)
 
 <h2></h2>
 
