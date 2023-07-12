@@ -25,7 +25,7 @@
 </h3>
 
 <p>
-  remote cmd shell for Windows.
+  Starts a new instance of the Windows command interpreter over the network
 </p>
 
 
