@@ -1,8 +1,8 @@
 <h2>Projects</h2>
 
 <h3>
-  <a href="https://github.com/brenw0rth/pync">
-    <img src="https://raw.githubusercontent.com/brenw0rth/pync/main/identicon.png" width=30>
+  <a href="https://github.com/reavor0r/pync">
+    <img src="https://raw.githubusercontent.com/reavor0r/pync/main/identicon.png" width=30>
     pync
   </a>
 </h3>
